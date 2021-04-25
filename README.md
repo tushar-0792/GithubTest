@@ -1,1 +1,1 @@
-# GithubTest
+Created a simple stock market magaement system using queue data structure. In which you can buy number of stocks at a perticular price, and you can sold your purchased stocks at any price. your total capital gain will store in a .txt file named "gain.txt".
